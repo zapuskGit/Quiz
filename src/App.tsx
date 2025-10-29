@@ -1,5 +1,5 @@
 import React from "react";
-import DISCQuiz from "./quizz";
+import SatisfactionQuiz from "./quizz";
 
 function App() {
   return (
