@@ -4,7 +4,7 @@ import SatisfactionQuiz from "./quizz";
 function App() {
   return (
     <div>
-      <quizz />
+      <SatisfactionQuiz />
     </div>
   );
 }
